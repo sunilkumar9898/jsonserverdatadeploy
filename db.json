@@ -1,6 +1,6 @@
 {
     "data": [
-       
+
     ],
     "product":[
 
@@ -103,6 +103,24 @@
             "country": "USA",
             "age": "35",
             "id": 2
+        }
+    ],
+    "data1": [
+        {
+            "id": "88f3",
+            "name": "aaaa",
+            "email": "PoojaKumari@gmail.com",
+            "mobile": "9898985225",
+            "city": "kota",
+            "state": "Rajasthan "
+        },
+        {
+            "id": "3d17",
+            "name": "aaaa",
+            "email": "ram@gmail.com",
+            "mobile": "959862245",
+            "city": "kotavdggfg",
+            "state": "rajkasthan"
         }
     ]
 }
